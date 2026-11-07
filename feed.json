@@ -1,0 +1,9 @@
+[
+  {
+    "uid": "morning-news-test-001",
+    "updateDate": "2026-11-07T11:00:00Z",
+    "titleText": "My Morning News",
+    "mainText": "Good morning! Welcome to your personalised morning briefing. Your Limerick and Kilkenny news",
+    "redirectionUrl": "https://github.com/"
+  }
+]
